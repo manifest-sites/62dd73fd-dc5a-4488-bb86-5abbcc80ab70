@@ -20,7 +20,7 @@
       }
     },
     "required": [
-      "name",
-      "is_complete"
+      "title",
+      "completed"
     ]
   }
